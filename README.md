@@ -1,4 +1,4 @@
-#Les valeurs de BUILD RH 
+# Les valeurs de BUILD RH 
 
 BUILD RH a choisi son nom dans le fait que nous cherchons continuellement à construire le meilleur partenariat en recrutement informatique avec l’entreprise et ce, sur la base de ces trois valeurs piliers : 
 
@@ -8,7 +8,7 @@ BUILD RH a choisi son nom dans le fait que nous cherchons continuellement à con
 
 **Transparence** : la transparence à tous les niveaux - transparence au niveau des critiques adressées aux clients, transparence dans l’annonce en recrutement, culture du feedback en entretien et dans le processus de recrutement. 
 
-#Le Label BUILD RH
+# Le Label BUILD RH
 
 Dans le cadre de son développement business, BUILD RH cherche toujours à trouver le meilleur compromis entre ses valeurs et le fait de proposer de super opportunités professionnelles aux candidats. 
 
