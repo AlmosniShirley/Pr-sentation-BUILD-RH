@@ -42,4 +42,4 @@ BUILD RH a refusé, à chaque fois, un futur partenariat pour les raisons suivan
   
 - Absence totale de remise en question, attitude de rejet face à la critique.
 
-  L'ensemble des annonces BUILD RH sont dans la partie [Issues] (https://github.com/AlmosniShirley/JobsBuildRH/issues)
+  L'ensemble des annonces BUILD RH sont dans la partie [Issues](https://github.com/AlmosniShirley/JobsBuildRH/issues)
