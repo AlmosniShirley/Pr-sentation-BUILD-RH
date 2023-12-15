@@ -1,3 +1,6 @@
+![alt text](<img width="283" alt="Logo image Build RH" src="https://github.com/AlmosniShirley/Pr-sentation-BUILD-RH/assets/10773051/23618435-582a-43e4-a121-ca38e804f741">
+)
+
 # Les valeurs de BUILD RH 
 
 BUILD RH a choisi son nom dans le fait que nous cherchons continuellement à construire le meilleur partenariat en recrutement informatique avec l’entreprise et ce, sur la base de ces trois valeurs piliers : 
