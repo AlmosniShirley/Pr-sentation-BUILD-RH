@@ -1,5 +1,3 @@
-![BUILD RH](<img width="283" alt="Logo image Build RH" src="https://github.com/AlmosniShirley/Pr-sentation-BUILD-RH/assets/10773051/23618435-582a-43e4-a121-ca38e804f741">
-)
 
 # Les valeurs de BUILD RH 
 
